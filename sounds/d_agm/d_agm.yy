@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "d_agm.ogg",
-  "duration": 125.217392,
+  "duration": 125.21739,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

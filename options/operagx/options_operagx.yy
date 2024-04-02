@@ -8,6 +8,7 @@
   "option_operagx_display_cursor": true,
   "option_operagx_guid": "520d1c86-86c8-4aff-93f5-084e239295eb",
   "option_operagx_team_name": "(b0819924-98a7-4925-9422-abf88659de8c) studio",
+  "option_operagx_team_id": "",
   "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/520d1c86-86c8-4aff-93f5-084e239295eb/edit",
   "option_operagx_internalShareUrl": "https://gxc.gg",
   "option_operagx_publicShareUrl": "",

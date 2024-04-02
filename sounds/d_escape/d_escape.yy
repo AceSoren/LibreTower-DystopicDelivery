@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "d_escape.wav",
-  "duration": 175.101685,
+  "duration": 175.10168,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",
